@@ -24,7 +24,8 @@ The start clicking o the white workspace to create your first polygon. The appli
 ![drawing_3](https://github.com/kostantinoss/graphics/blob/10a8a6e3d99a0a36295a561ad3f282c4dfc98856/screenshots/Screenshot%20from%202022-04-29%2019-38-07.png)
 
 ## Clip Polygons
-Fist draw some polygons. Then, right-click to open the menu, select ACTION> Clip Polygons and drag the mouse ehile holding the left-click down in order do define the clipping area as shown in the pictures. 
+Fist draw some polygons. Then, right-click to open the menu, select ACTION>Clip Polygons and drag the mouse while holding the left-click down in order do define the clipping area as shown in the pictures. 
+
 ![clipping_1](https://github.com/kostantinoss/graphics/blob/bdceffef1a735611e36d6d5dc2ad3bbae6e5f5ea/screenshots/Screenshot%20from%202022-04-29%2019-42-46.png)
 ![clipping_2](https://github.com/kostantinoss/graphics/blob/bdceffef1a735611e36d6d5dc2ad3bbae6e5f5ea/screenshots/Screenshot%20from%202022-04-29%2019-42-52.png)
 
