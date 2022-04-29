@@ -9,10 +9,11 @@ To install GLUT dependancies, run the following commands
 sudo apt install libglfw3-dev libgl1-mesa-dev libglu1-mesa-dev
 sudo apt install freeglut3-dev
 ```
-### Compile
+### Compile and Run
 There is a Makefile included that does all the work.
 ```
 ~$ make
+~$ ./project
 ```
 
 ## Drawing Polygons
