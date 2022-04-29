@@ -1,4 +1,4 @@
-# Polygon draw application
+# Polygon drawing application
 Developed as part of the course [MYY702](https://www.cs.uoi.gr/course/computer-graphics-and-interactive-systems/?lang=en)
 
 ### Before you start
@@ -16,6 +16,9 @@ There is a Makefile included that does all the work.
 ```
 
 ## Drawing Polygons
+To begin, right click and select ACTIONS>Polygon.
+The start clicking o the white workspace to create your first polygon.
+
 ![drawing_1](https://github.com/kostantinoss/graphics/blob/5df73eba5fabccffb565830f4849aeb89fa680d0/screenshots/Screenshot%20from%202022-04-29%2019-37-57.png)
 ![drawing_2](https://github.com/kostantinoss/graphics/blob/10a8a6e3d99a0a36295a561ad3f282c4dfc98856/screenshots/Screenshot%20from%202022-04-29%2019-38-02.png)
 ![drawing_3](https://github.com/kostantinoss/graphics/blob/10a8a6e3d99a0a36295a561ad3f282c4dfc98856/screenshots/Screenshot%20from%202022-04-29%2019-38-07.png)
