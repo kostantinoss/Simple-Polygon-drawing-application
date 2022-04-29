@@ -16,8 +16,11 @@ There is a Makefile included that does all the work.
 ```
 
 ## Draw Polygons
-[]()
+![drawing_1](https://github.com/kostantinoss/graphics/blob/10a8a6e3d99a0a36295a561ad3f282c4dfc98856/screenshots/Screenshot%20from%202022-04-29%2019-38-02.png)
+![drawing_2](https://github.com/kostantinoss/graphics/blob/10a8a6e3d99a0a36295a561ad3f282c4dfc98856/screenshots/Screenshot%20from%202022-04-29%2019-38-02.png)
+![drawing_3](https://github.com/kostantinoss/graphics/blob/10a8a6e3d99a0a36295a561ad3f282c4dfc98856/screenshots/Screenshot%20from%202022-04-29%2019-38-07.png)
 
 ## Clip Polygons
+
 
 ## 3D conversion
