@@ -18,7 +18,7 @@ There is a Makefile included that does all the work.
 
 ## Drawing Polygons
 To begin, right click and select ACTION>Polygon.
-The start clicking o the white workspace to create your first polygon. The applications support only non-ontersecting polygons, so for example if you tried to construct a bow tie polygon and cross some existong edge, the shape constructed until that moment will disappear. On the menu (right-click) there are options that allow you to choose color for the polygon's outline and fill.
+The start clicking o the white workspace to create your first polygon. To complete the polygon, hit right-click and the last edge will be automatically added to the shape. The applications supports only non-ontersecting polygons, so for example if you tried to construct a bow tie polygon and cross some existong edge, the shape constructed until that moment will disappear. On the menu (right-click) there are options that allow you to choose color for the polygon's outline and fill.
 
 ![drawing_1](https://github.com/kostantinoss/graphics/blob/5df73eba5fabccffb565830f4849aeb89fa680d0/screenshots/Screenshot%20from%202022-04-29%2019-37-57.png)
 ![drawing_2](https://github.com/kostantinoss/graphics/blob/10a8a6e3d99a0a36295a561ad3f282c4dfc98856/screenshots/Screenshot%20from%202022-04-29%2019-38-02.png)
